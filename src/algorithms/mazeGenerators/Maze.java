@@ -15,6 +15,10 @@ public class Maze {
     public void print (){
 
     }
+
+    public void stam(){
+        
+    }
     
 
 
